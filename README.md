@@ -11,7 +11,7 @@ The Lemonade app is a simple and interactive Android application built with Jetp
 
 ## Screenshots
 
-[Include screenshots of the app here showing the different stages of the process.]
+<img width="250" src="https://github.com/user-attachments/assets/c315b9b7-2b4c-4bab-a88f-0fd0e4dc0f1d"/>
 
 ## Getting Started
 
