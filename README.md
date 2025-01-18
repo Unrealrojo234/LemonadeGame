@@ -24,4 +24,4 @@ The Lemonade app is a simple and interactive Android application built with Jetp
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/lemonade-app.git
+   git clone https://github.com/Unrealrojo234/LemonadeGame
